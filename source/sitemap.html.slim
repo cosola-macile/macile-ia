@@ -1,0 +1,48 @@
+---
+title: "MACILE Sitemap"
+---
+
+section.sitemap--chart
+  h1 Site Architecture
+  p The site map gives a high level overview of our site's architecture.
+    Click on a node to access a sections content template.
+
+  ul#utilityNav
+    li =link_to 'Donate', '/donations'
+    li =link_to 'Shop', '/store'
+    li =link_to 'News', '/news'
+    li =link_to 'Calendar', '/calendar'
+    li =link_to 'I18N', '/internationalization'
+    li =link_to 'Admin', '/admin'
+
+  ul#primaryNav
+    li#home
+      =link_to 'Home', '/home'
+    li
+      =link_to 'Mission', '/mission'
+      ul
+        li =link_to 'Board', '/board'
+        li =link_to 'Letter from the President', '/letter'
+    li
+      =link_to 'Financial Aid', '/financial-aid'
+      ul
+        li =link_to 'Scholarships', '/scholarships'
+    li
+      =link_to 'Summer Academy', '/summer-academy'
+      ul
+        li =link_to 'Sessions', '/summer-academy-session'
+
+    li =link_to 'Teacher Development Institute', '/tdi'
+    li =link_to 'Preparatory School', '/prep-school'
+    li =link_to 'Research', '/research'
+    li =link_to 'Library', '/library'
+
+section.resources
+h1. Additional Content
+ul
+  li =link_to 'Applications', '/applications'
+  li =link_to 'Testimonials', '/testimonials'
+  li =link_to '[Block] Annual Reports', '/reports'
+  li =link_to '[Block] Social Media', '/social'
+  li =link_to '[Block] Newsletter', '/newsletter'
+  li =link_to 'Alumni: Where are they now', '/alumni'

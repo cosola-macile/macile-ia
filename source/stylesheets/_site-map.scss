@@ -1,0 +1,11 @@
+// Site Map
+// ========
+
+@import 'slickmap';
+
+$column-default: 7;
+
+.sitemap--chart {
+  @extend %clearfix;
+  @include slickmap;
+}
