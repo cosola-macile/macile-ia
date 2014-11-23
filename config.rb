@@ -21,9 +21,9 @@ end
 # page "/path/to/file.html", :layout => :otherlayout
 #
 # A path which all have the same layout
-# with_layout :page do
-#   page "/content/*"
-# end
+with_layout :styleguide do
+  page "/styleguide/*"
+end
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
