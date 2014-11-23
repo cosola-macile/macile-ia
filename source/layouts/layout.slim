@@ -14,10 +14,11 @@ html
 
   body class="#{page_classes}"
 
-  nav.bar role="navigation"
-    a MACILE
-    a href="/" Sitemap
-    a href="/styleguide" Brand
+  nav.bar.bar-static role="navigation"
+    a.brand href="/" MACILE Information Strategy
+    div.pull-right
+      a.nav-pill href="sitemap" Sitemap
+      a.nav-pill href="/styleguide" Brand
 
   main role="main"
     h1= data.page.title
