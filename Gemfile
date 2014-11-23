@@ -20,3 +20,6 @@ gem 'bitters'
 
 # Grid prototyping; stay loyal
 gem 'susy', '~> 2.1.3'
+
+# Single source of truth
+gem 'SassyExport', '~> 1.4.0'

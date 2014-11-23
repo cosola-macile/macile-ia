@@ -1,0 +1,36 @@
+//
+// Layouts
+// =======
+
+@import "susy";
+@import "SassyExport";
+
+$susy: (
+  debug: (
+    image: show,
+    color: color(gold),
+    output: background,
+  ),
+);
+
+$grids: (
+  12: 12 .33 split,
+  24: 24,
+  02: 2,
+  48: 12 .25 split
+);
+
+@include SassyExport("/data/layouts.json", $grids, true);
+
+
+.layout {
+
+}
+
+
+@each $layout, $value in $grids {
+  .layout-#{$layout} {
+    @include show-grid($value);
+  }
+}
+

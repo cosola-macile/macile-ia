@@ -55,10 +55,14 @@ activate :directory_indexes
 # Gem
 ###
 require 'slim'
+require 'susy'
+require 'SassyExport'
 
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'static/js'
+
+set :fonts_dir, 'static/fonts'
 
 set :images_dir, 'static/images'
 

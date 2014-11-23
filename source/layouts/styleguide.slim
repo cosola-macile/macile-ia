@@ -21,13 +21,13 @@ html
       a.nav-pill href="/styleguide" Brand
 
   main role="main"
+    ul.bar.bar-grid.nav--styleguide
+      li =link_to 'Colors', 'colors'
+      li =link_to 'Typography', 'typography'
+      li =link_to 'Photography', 'photos'
+      li =link_to 'Fonts', 'fonts'
+      li =link_to 'Layout', '/styleguide/layouts'
+
     h1= data.page.title
-
-  ul
-    li =link_to 'Colors', 'styleguide/colors'
-    li =link_to 'Typography', 'typography'
-    li =link_to 'Photography', 'photos'
-    li =link_to 'Fonts', 'fonts'
-
 
     == yield

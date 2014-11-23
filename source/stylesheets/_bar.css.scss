@@ -46,3 +46,13 @@
 .pull-right {
   margin-left: auto;
 }
+
+.nav--styleguide {
+  display: flex;
+  flex-wrap: wrap;
+
+
+  li {
+    flex: 0 33%;
+  }
+}
