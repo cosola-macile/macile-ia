@@ -17,3 +17,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 # @TRIAL Drink some Bourbon with a dash of Bitters gems for rapid prototyping?
 gem 'bourbon'
 gem 'bitters'
+
+# Grid prototyping; stay loyal
+gem 'susy', '~> 2.1.3'
