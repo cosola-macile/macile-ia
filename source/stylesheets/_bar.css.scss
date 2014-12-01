@@ -24,15 +24,15 @@
   margin-bottom: 0.3rem;
 }
 
-.nav-pill {
+.nav-item {
+  display: inline-block;
 
-  .nav-item {
-    display: inline-block;
-
-    & + & {
-      margin-left: 0.5rem;
-    }
+  & + & {
+    margin-left: 0.5rem;
   }
+}
+
+.nav-pill {
 
   .nav-link {
     color: lighten($base-button-color, 50%);
