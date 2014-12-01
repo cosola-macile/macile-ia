@@ -2,7 +2,9 @@
 title: Applications
 ---
 
-All applications must have an electronic version and PDF version. UI should push electronic submissions. 
+The application page serves to compile all MACILE applications. Applications should also be available from the specific program pages. 
+
+All applications must have an electronic and PDF version. Electronic submissions are the preferred method
 
 ## List of Forms & Applications
 
@@ -15,12 +17,12 @@ All applications must have an electronic version and PDF version. UI should push
 * Parent Forms
 * Volunteer/Collaborators
 
-### [Financial Aid](financial-aid)
+### [Student Financial Opportunitiess](student-opportunities)
 
-* [Scholarship applications](scholarship)
+* [Scholarship applications](scholarships)
 * Grants
 
-### [Teacher Development Institute](tdi)
+### [Teacher Development Institutee](tdi)
 
 * Courses
 

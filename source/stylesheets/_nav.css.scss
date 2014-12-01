@@ -1,0 +1,71 @@
+//
+// Nav
+// ====
+
+@import "compass/typography/text/replacement";
+
+.layout-specimen {
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-specimen--nav-02 {
+  .nav--programs {
+    order: 3;
+  }
+
+  .nav--primary {
+    order: 2;
+  }
+
+  .nav--utility {
+    justify-content: flex-end;
+    order: 1;
+  }
+
+}
+
+.nav--utility {
+  display: flex;
+  background: color('base');
+
+  a {
+    color: white;
+  }
+
+  li {
+    flex: 0 0 auto;
+    padding: 0.2rem 0.5rem;
+    border-right: 1px solid white;
+  }
+
+}
+
+.nav--programs {
+  display: flex;
+  background: color('gold' lightest);
+
+  li {
+    flex: 1;
+    padding: 0.5rem;
+    text-align: center;
+    border-right: 1px solid white;
+  }
+}
+
+
+.nav--primary {
+  display: flex;
+  align-items: center;
+
+  li {
+    flex: 1;
+
+  }
+}
+
+.logo {
+  @include replace-text($asset-logo);
+  background-size: contain;
+  height: 200px
+}

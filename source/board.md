@@ -11,15 +11,15 @@ Place for visitors to find out about the current board.
 
 ## Current Board Members
 
-### Example of Content
+List of the current (active) board members. Content includes:
 
 * Name of Member
 * Position
-* Short Bio
+* Short bio
 * Photo
 
 ## Past Board Members
 
-Same fields as current. 
+List of past (inactive) board members. Uses the same fields as current. 
 
 

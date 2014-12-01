@@ -2,10 +2,23 @@
 title: Home
 ---
 
-The homepage is used to promote visitors to different areas of the site. 
+The homepage is used to prompt visitors to different areas of the site. It should:
 
-It will have features for:
+* Highlight programs but don't bombard user with information
+* Limit the amount of text
+* Focus on imagery
 
-* Highlight Master Teachers Development Program (is this TDI?)
-* Scholarship Recipient
-* The Prep School Project
+## Features
+
+* [Summer Academy](/summer-academy)
+* Highlight Master [Teachers Development Program](/tdi) (is this TDI?)
+* [Scholarship recipients](/scholarships)
+* [Prep School](/prep-school) Project
+
+## Additional blocks
+
+* Latest [news](/news)
+* [Testimonials](/testimonials)
+
+
+

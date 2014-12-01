@@ -8,4 +8,18 @@ $column-default: 7;
 .sitemap--chart {
   @extend %clearfix;
   @include slickmap;
+
+
+
+  .is-phase4 a {
+    background: color(gray) !important;
+
+    &:before {
+      color: contrast(color(gray)) !important;
+    }
+  }
+
+
 }
+
+

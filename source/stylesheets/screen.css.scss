@@ -9,8 +9,14 @@
 @import 'site-map';
 
 @import 'bar';
+@import 'nav';
 
 body {
   @extend %base-typography;
   padding: 1rem;
+}
+
+main {
+  @extend %typography-styles;
+  margin-top: 1.5rem;
 }

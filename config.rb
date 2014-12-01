@@ -42,11 +42,11 @@ configure :development do
 end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def pt(id)
+    content_tag(:p, class: "pivotal-tracker-link")
+  end
+end
 
 # Pretty URLs
 activate :directory_indexes

@@ -29,3 +29,13 @@ dl {
     margin: 0;
   }
 }
+
+%typography-styles {
+  ul {
+    @extend %default-ul;
+  }
+
+  ol {
+    @extend %default-ol;
+  }
+}

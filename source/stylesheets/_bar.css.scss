@@ -3,7 +3,6 @@
 // ====
 
 .bar {
-  padding: 0 0.5rem;
   border-bottom: $base-border;
 }
 
@@ -26,20 +25,25 @@
 }
 
 .nav-pill {
-  display: inline-block;
-  color: lighten($base-button-color, 50%);
-  background-color: $base-button-color;
-  border-radius: $base-border-radius;
-  padding: 0.3rem;
 
-  &:hover,
-  &:focus {
-    color: lighten($hover-button-color, 80%);
-    background-color: $hover-button-color;
+  .nav-item {
+    display: inline-block;
+
+    & + & {
+      margin-left: 0.5rem;
+    }
   }
 
-  & + & {
-    margin-left: 0.5rem;
+  .nav-link {
+    color: lighten($base-button-color, 50%);
+    background-color: $base-button-color;
+    border-radius: $base-border-radius;
+    padding: 0.3rem;
+    &:hover,
+    &:focus {
+      color: lighten($hover-button-color, 80%);
+      background-color: $hover-button-color;
+    }
   }
 }
 

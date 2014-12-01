@@ -1,8 +1,8 @@
 ---
-title: Financial Aid Opportunities
+title: Student Opportunities
 ---
 
-This page will include information about all the opportunities available in the DR and internationally for students.
+This page includes information about various opportunities available for students in the DR and internationally.
 
 * Student assistantship jobs
 * [Scholarships](scholarships)

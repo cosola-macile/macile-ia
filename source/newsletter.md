@@ -1,7 +1,16 @@
 ---
-title: Block: Newsletter
+title: Blocks: Newsletter
 ---
 
-Sign-up for newsletter
+There are two newsletter blocks
 
-List of past newsletters?
+## Signup Block
+
+Sign-up for the newsletter. 
+
+* Email address
+* Name?
+
+## List of Newsletters
+
+List of past newsletters, linked to view online

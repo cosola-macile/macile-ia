@@ -50,13 +50,13 @@ $variants: (
   $color: if(map-has-key($colors, $base), color($base), $base);
 
   // Adjustments
-  @each $function, $values in $adjust {
-    @if function-exists($function) {
-      $color: call($function, $color, $values...)
-    } @else {
-      @warn "#{$function} is not a valid color function.";
-    }
-  }
+  // @each $function, $values in $adjust {
+  //   @if function-exists($function) {
+  //     $color: call($function, $color, $values...)
+  //   } @else {
+  //     @warn "#{$function} is not a valid color function.";
+  //   }
+  // }
 
   @return $color;
 }
@@ -71,49 +71,49 @@ $variants: (
 // Output
 // ------
 
-.colors--palette {
-div {
-  box-sizing: border-box;
-  float: left;
-  width: 50%;
-}
+// .colors--palette {
+// div {
+//   box-sizing: border-box;
+//   float: left;
+//   width: 50%;
+// }
 
-$i: 0;
-@each $name, $color in $colors {
-  $i: $i + 1;
-  div:nth-child(#{$i}) {
-    background: color($name);
-    color: contrast($name);
-    padding: 1rem;
-    text-align: center;
+// $i: 0;
+// @each $name, $color in $colors {
+//   $i: $i + 1;
+//   div:nth-child(#{$i}) {
+//     background: color($name);
+//     color: contrast($name);
+//     padding: 1rem;
+//     text-align: center;
 
-    &:before {
-      content: '#{$name} » #{color($name)}';
-      display: block;
-      margin-bottom: .25rem;
-      text-transform: uppercase;
-    }
+//     &:before {
+//       content: '#{$name} » #{color($name)}';
+//       display: block;
+//       margin-bottom: .25rem;
+//       text-transform: uppercase;
+//     }
 
-    $n: 0;
-    @each $var, $map in $variants {
-      $n: $n + 1;
-      span:nth-child(#{$n}) {
-        background: color($name $map);
-        color: contrast($name $map);
-        display: inline-block;
-        padding: 1rem;
+//     $n: 0;
+//     @each $var, $map in $variants {
+//       $n: $n + 1;
+//       span:nth-child(#{$n}) {
+//         background: color($name $map);
+//         color: contrast($name $map);
+//         display: inline-block;
+//         padding: 1rem;
 
-        &:before {
-          content: '#{$var}';
-          display: block;
-        }
+//         &:before {
+//           content: '#{$var}';
+//           display: block;
+//         }
 
-        &:after {
-          content: '#{color($name $map)}';
-        }
-      }
-    }
-  }
-}
+//         &:after {
+//           content: '#{color($name $map)}';
+//         }
+//       }
+//     }
+//   }
+// }
 
-}
+// }

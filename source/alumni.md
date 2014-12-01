@@ -2,4 +2,8 @@
 title: Alumni: Where are they now
 ---
 
-_*As MACILE, I want to show how our students are progressing and what they are doing (project our mission).* Alumni "Where are they now". Show that we are living out our mission. Project our mission_
+_As MACILE, I want to show how our students are progressing and what they are doing (project our mission)_
+
+This section shows that we are living out our mission.
+
+_@TODO MAP OUT THE CONTENT_

@@ -2,4 +2,8 @@
 title: Mission
 ---
 
-_Guidelines for mission here_
+Clear, concise mission of the organization
+
+1-2 paragraphs of text.
+
+Bullet points to highlight features
