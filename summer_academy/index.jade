@@ -1,3 +1,11 @@
 h1 Summer Academy
 
 article!= partial("content/overview")
+
+ol(class="list-group")
+for article, slug in public.summer_academy.sessions._data
+  li(class="list-group-item")
+    article(class="publication")
+      header.post-header
+        a(href="sessions/#{ slug }")
+          h2= article.title
