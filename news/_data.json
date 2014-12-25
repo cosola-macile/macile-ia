@@ -1,0 +1,11 @@
+{
+  "hello-world": {
+    "title": "Our new website",
+    "date": "2013-02-28"
+  },
+  "new-library": {
+    "title": "Our library is expanding",
+    "date": "2013-02-28"
+  }
+
+}

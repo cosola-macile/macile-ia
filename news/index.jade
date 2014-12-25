@@ -1,0 +1,13 @@
+h1 News
+
+div.section
+
+  ol(class="list-group")
+  for article, slug in public.news._data
+    li(class="list-group-item")
+      article(class="publication")
+        header.post-header
+          h2= article.title
+          time #{ article.date }
+
+

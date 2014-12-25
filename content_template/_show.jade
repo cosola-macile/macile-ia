@@ -1,0 +1,9 @@
+- var tpl = (current.source === 'index' ? current.path[0] : current.source )
+
+div.container.content-template-container
+  button.btn.btn-default(data-toggle="button", aria-controls="content-template", aria-pressed="false") View Content Template
+
+  div.content-template-body#content-template(aria-expanded="false")
+
+    != partial("../content_template/" + tpl)
+

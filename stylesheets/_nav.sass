@@ -1,0 +1,58 @@
+// Nav
+// ===
+
+.nav
+  margin: 0
+  padding: 0
+  list-style-type: none
+  text-transform: capitalize
+  white-space: nowrap
+  .active
+    font-weight: bold
+
+.nav-list
+  li
+    padding: 0.5em
+
+.main-nav
+  flex-direction: column
+  display: flex
+
+  .nav
+    display: flex
+
+
+.nav-site
+  order: 1
+  padding: 2em
+  justify-content: flex-end
+  li
+    padding: 0.5em
+    &:first-child
+      margin-right: auto
+
+.nav-programs
+  background: tint($primary-color, 50%)
+  order: 3
+
+  li
+    display: flex
+    flex: 1
+    justify-content: center
+    padding: 1em 0.5em
+    border-right: 1px solid #fff
+    a
+      color: white
+
+
+.nav-utility
+  font-size: 0.85em
+  justify-content: flex-end
+  background: shade($primary-color, 25%)
+  order: 0
+
+  li
+    flex: 0 0 auto
+    padding: 0.85em 1em
+    a
+      color: white

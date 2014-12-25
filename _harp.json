@@ -1,0 +1,38 @@
+{
+  "globals": {
+    "title": "MACILE",
+    "uri": "http://example.com",
+    "about": [
+      "president welcome",
+      "philosophy",
+      "board",
+      "contact",
+      "get involved"
+    ],
+    "resources": [
+      "library",
+      "student opportunities",
+      "alumni",
+      "applications"
+    ],
+    "utility": [
+      "news",
+      "calendar",
+      "admin"
+    ],
+    "site": [
+      "home",
+      "about",
+      "research",
+      "resources",
+      "support",
+      "education store"
+    ],
+    "programs": [
+      "summer academy",
+      "scholarships",
+      "teacher development institute",
+      "prep school"
+    ]
+  }
+}

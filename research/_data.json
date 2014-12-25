@@ -1,0 +1,15 @@
+{
+  "publication-0": {
+    "title": "Effects of Poverty on Childhood Development",
+    "date": "2013-02-28",
+    "authors": ["Author 1", "Author 2"],
+    "journal": "Science"
+  },
+  "publication-1": {
+    "title": "The Complexity of International Program Designs from the West",
+    "date": "2013-02-28",
+    "authors": ["Author 1"],
+    "journal": "IEE"
+  }
+
+}

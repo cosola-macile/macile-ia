@@ -1,0 +1,66 @@
+@import patterns/tint-shade
+
+$color-pink: #C6538C
+$primary-color: hsl(258, 91%, 17%)
+
+
+body
+  font-family: "Avenir Next", "Avenir", "Futura", "Verdana", "Roboto", sans-serif
+  background: tint($primary-color, 98%)
+  color: desaturate(darken($color-pink, 50%), 50%)
+  height: 100%
+  margin: 0
+  padding: 0
+  font-size: 1em
+  line-height: 1
+
+
+h1
+  margin: 0 0 1.24rem
+  display: block
+  color: $primary-color
+
+  .section &
+    font-weight: normal
+    margin-top: 1.24em
+    padding-left: 0.5em
+    color: desaturate($primary-color, 50%)
+
+
+h2
+  font-size: 1em
+
+h3
+  font-weight: 300
+  font-size: 1em
+  line-height: 1
+  display: block
+
+a
+  color: $primary-color
+  text-decoration: none
+
+main
+  padding: 3em
+
+.content-template-container
+  button
+    float: right
+
+.content-template-body
+  clear: both
+  padding: 1em
+  background: lighten(shade($primary-color, 5%), 80%)
+  border-bottom: 1px solid #999;
+  margin: 3em 0
+
+[aria-expanded='false']
+  display: none;
+
+[aria-expanded='true']
+  display: block;
+
+@import panels
+@import list-group
+@import nav
+@import buttons

@@ -1,0 +1,12 @@
+mixin nav_item(page)
+  - var url = page.split(" ").join("_")
+
+  li(class="#{ current.path[0] == page ? 'active' : '' }")
+    a(href="/about/#{ url }") #{ page }
+
+mixin nav_list(type, modifier)
+  ul(class="nav nav-list nav-#{ modifier }")
+    for page in type
+      +nav_item(page)
+
++nav_list(about, "about")

@@ -1,0 +1,19 @@
+h1 Research
+
+div.panel.panel-default
+  div.panel-body
+    | Introduction to research at MACILE
+
+div.section
+  h1 Publications
+
+  ol(class="list-group")
+  for article, slug in public.research._data
+    li(class="list-group-item")
+      article(class="publication")
+        header.post-header
+          h2= article.title
+          p By
+            for author in article.authors
+             span #{ author }
+          time #{ article.date }

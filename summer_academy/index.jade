@@ -1,0 +1,21 @@
+h1 Summer Academy
+
+div.panel.panel-default
+  div.panel-body
+    | What is the summer academy
+
+div.panel.panel-default
+  div.panel-body
+    | Highlight last or current summer academy session
+
+div.section
+  h1 Past sessions
+
+  ol(class="list-group")
+  for article, slug in public.summer_academy.sessions._data
+    li(class="list-group-item")
+      article(class="publication")
+        header.post-header
+          a(href="sessions/#{ slug }")
+            h2= article.title
+

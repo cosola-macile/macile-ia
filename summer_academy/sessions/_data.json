@@ -1,0 +1,21 @@
+{
+"2007": {
+    "title": "Summer 2007 Session",
+    "date": 2007,
+    "stats": {
+      "students": 100,
+      "teachers": 3,
+      "scholarships": 5
+    }
+  },
+"2008": {
+    "title": "Summer 2008 Session",
+    "date": 2008,
+    "stats": {
+      "students": 100,
+      "teachers": 3,
+      "scholarships": 5
+    }
+  }
+
+}

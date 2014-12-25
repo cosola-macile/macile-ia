@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 e77e4bfb71d2621d9a4810dbc3b9fabbf29ee510 Claudina Sarahe <its@misscs.me> 1416750518 -0500	commit (initial): Initial commit
+e77e4bfb71d2621d9a4810dbc3b9fabbf29ee510 3dec9f38c0eb268ee2250c813411087b3f89bb93 Claudina Sarahe <its@misscs.me> 1416758970 -0500	commit: make links absolute
+3dec9f38c0eb268ee2250c813411087b3f89bb93 2983aca93c135546abf42252d988b778f8822c30 Claudina Sarahe <its@misscs.me> 1416758991 -0500	commit: basic styles
+2983aca93c135546abf42252d988b778f8822c30 0aab8b8a650b7c00a7950169f94ec0c43e208c53 Claudina Sarahe <its@misscs.me> 1416765481 -0500	commit: add susy
+0aab8b8a650b7c00a7950169f94ec0c43e208c53 239e92093cf4ea9731a026f522d176553e4eca6e Claudina Sarahe <its@misscs.me> 1416765503 -0500	commit: add specific layout for styleguide section
+239e92093cf4ea9731a026f522d176553e4eca6e c068c54e774c795919f1b935382be8a0183701d0 Claudina Sarahe <its@misscs.me> 1416765547 -0500	commit: brand guidelines mapped to colors
+c068c54e774c795919f1b935382be8a0183701d0 6d8cb51d0c85ae15b440b644f63134ff84113974 Claudina Sarahe <its@misscs.me> 1416765570 -0500	commit: logo and 4x3 explorations
+6d8cb51d0c85ae15b440b644f63134ff84113974 4c53c626be9f915b5287f1cb26346a363ce09308 Claudina Sarahe <its@misscs.me> 1416765598 -0500	commit: colors
+4c53c626be9f915b5287f1cb26346a363ce09308 c83ab981bb1f4c2955235952513747361dd9f347 Claudina Sarahe <its@misscs.me> 1416765611 -0500	commit: styleguide layout file
+c83ab981bb1f4c2955235952513747361dd9f347 585967802aabcf57aa12cba63d370c1e2af6ff7a Claudina Sarahe <its@misscs.me> 1416765676 -0500	commit: style helpers
+585967802aabcf57aa12cba63d370c1e2af6ff7a 0db58e0db58ed951c1e69b5b1f8b891d6aff75c0 Claudina Sarahe <its@misscs.me> 1416773704 -0500	commit: More branding setup
+0db58e0db58ed951c1e69b5b1f8b891d6aff75c0 67e002dd317982c9f593f5cef36b00a504e96bba Claudina Sarahe <its@misscs.me> 1417438806 -0500	commit: Reorganize sitemap
+67e002dd317982c9f593f5cef36b00a504e96bba 1afd06324424bd99fff0e062dc1e829cf4a35208 Claudina Sarahe <its@misscs.me> 1417440664 -0500	commit: Remove font files that are causing build errors
+1afd06324424bd99fff0e062dc1e829cf4a35208 b682955183ea3229fcf20c78f45eedad590e5478 Claudina Sarahe <its@misscs.me> 1417440727 -0500	commit: fix nav spacing
