@@ -1,1 +1,1 @@
-_curriculum about_
+_summer academy overview_

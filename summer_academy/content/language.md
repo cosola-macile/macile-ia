@@ -1,3 +1,5 @@
+# Language
+
 # Teaser
 The MACILE Spanish language curriculum is innovative, highly effective, rigorous, and engaging. It stimulates creativity and a desire to learn.
 

@@ -1,3 +1,5 @@
+# Mathematics
+
 # Teaser
 Emphasizes incremental learning through continuous practice and aims to build the students’ problem solving skills.
 

@@ -2,10 +2,19 @@ h1 Summer Academy
 
 article!= partial("content/overview")
 
+h2 Curriculum
+
+p The MACILE curriculum development process is research-based. The main goal is to produce curricula that get young people excited about learning and build independent thinkers.
+
+article!= partial("_nav")
+
+h2 Past Sessions
+
 ol(class="list-group")
-for article, slug in public.summer_academy.sessions._data
+for article, slug in public.summer_academy._data
   li(class="list-group-item")
     article(class="publication")
       header.post-header
         a(href="sessions/#{ slug }")
           h2= article.title
+

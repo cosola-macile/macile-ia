@@ -1,3 +1,5 @@
+# Robotics
+
 # Teaser
 The RS program promotes the development of a technological literate workforce for the 21st century challenging talented high school students from disadvantaged backgrounds in the Dominican Republic to get excited about sustainability, technology and engineering with LEGO Robotics and simulation modeling techniques 
 
