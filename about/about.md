@@ -1,1 +1,5 @@
-_testing about content_
+MACILE, which stands for Mathematics, Sciences, Engineering, and Language in Spanish, is a language-infused STEM (STEM-L) program that advances engineering and science education in less advantaged communities in the USA, the Dominican Republic, and Latin America.
+MACILE is an interdisciplinary collaborative effort with faculty and students from USA colleges and universities, Dominican schools, Dominican universities, private corporations, public agencies, professionals, and community leaders. MACILE is a bilingual program. It was piloted in 2007-2008. It is currently a summer program for educators and students and operates in the Itabo-Nigua region, Dominican Republic (MACILE-DR). A pilot program is slated to begin in 2011 in the USA. 
+
+> Learning [math, sciences, and language] processes that enlarge the youths’ thoughts and challenge their imaginations are essential for scientific and technological advancement and indispensable to break through the cycle of poverty—mental, social, and economical—in marginal [less advantaged] communities. Challenging and stimulating education expands the knowledge frontier and elevates hope. 
+—SC. Vargas, Executive Director, COSOLA
