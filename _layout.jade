@@ -7,6 +7,7 @@ html.no-js
     meta(name='description', content='')
     meta(name='viewport', content='width=device-width, initial-scale=1')
     link(rel='stylesheet', href='/stylesheets/main.css')
+    link(rel='stylesheet', href='/bower_components/normalize.css/normalize.css')
     //-script(src='js/vendor/modernizr-2.7.1.min.js')
   body
     <!--[if lt IE 8]>
@@ -22,16 +23,20 @@ html.no-js
 
       != partial("content_template/_show")
 
-      != yield
+      .content
 
-      if current.path[0] == 'about'
-        aside
+        != yield
+
+      aside
+        - var path = current.path[0]
+
+        if path == 'about'
           != partial('/about/_nav')
-
-      if current.path[0] == 'resources'
-        aside
-          != partial('/resources/_nav')
-
+        else if path == 'summer_academy'
+          != partial('/summer_academy/_nav_curriculum')
+          != partial('/summer_academy/_nav_sessions')
+        else if path == 'teacher_development_institute'
+          != partial('teacher_development_institute/_nav')
 
     //- != partial('_footer')
 
