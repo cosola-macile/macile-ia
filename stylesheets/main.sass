@@ -3,6 +3,8 @@
 $color-pink: #C6538C
 $primary-color: hsl(258, 91%, 17%)
 
+*
+  box-sizing: border-box
 
 body
   font-family: "Avenir Next", "Avenir", "Futura", "Verdana", "Roboto", sans-serif
@@ -12,7 +14,7 @@ body
   margin: 0
   padding: 0
   font-size: 1em
-  line-height: 1
+  line-height: 1.4
 
 
 h1
@@ -40,8 +42,21 @@ a
   color: $primary-color
   text-decoration: none
 
+
 main
   padding: 3em
+  overflow: hidden
+
+.content
+  overflow: hidden
+  float: left
+  width: 65%
+  margin-right: 5%
+
+aside
+  float: right
+  width: 30%
+
 
 .content-template-container
   button
@@ -64,3 +79,4 @@ main
 @import list-group
 @import nav
 @import buttons
+@import type

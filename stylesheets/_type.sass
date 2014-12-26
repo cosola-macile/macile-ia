@@ -1,0 +1,31 @@
+// Typography
+// ==========
+
+$primary-color: hsl(258, 91%, 17%)
+
+p
+  line-height: 1.6
+
+// Lists
+ol,
+ul
+  li
+    margin-bottom: 1em
+
+
+// Blockquotes
+blockquote
+  padding: 1rem
+  margin: 0 1.5rem 0.5rem
+  font-size: 1.1rem
+  border-left: 5px solid $primary-color
+
+// Account for citation
+  footer
+    &:before
+      content: ''
+    &:after {
+      content: '\00A0 \2014' // nbsp, em dash
+
+
+
