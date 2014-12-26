@@ -16,8 +16,29 @@ By teaching children skills and confidence early in their education, COSOLA hope
 
 To work to improve this situation, COSOLA has developed three primary goals:
 
-create a model to cost-effectively deliver top-quality preparatory elementary and secondary education through the MACILE program
-help improve science, math, and language education in the K–12 schools of less-advantaged communities
+create a model to cost-effectively deliver top-quality preparatory elementary and secondary education through the MACILE program help improve science, math, and language education in the K–12 schools of less-advantaged communities
 help students from least advantaged strata to gain access to top universities and pursue degrees in math, science, and technology, thereby creating educators and leaders who can improve the quality of their schools and communities
 create a foundation and tradition of technological and scientific research in the Dominican Republic
 The first step toward these goals is COSOLA's project: MACILE-Ytabo.
+
+# Why MACILE Ytabo?
+
+The most significant constraint to sustainable economic development, as well as scientific and technological advancement in the Dominican Republic (DR), is the persistent low skills in mathematics, science, and language of young people from disadvantaged backgrounds. These are the majority of young people population in the country. They live in marginal communities where the educational infrastructures are still basic; challenging and stimulating classrooms (public or private) are rare; and access to any education is still limited for many school age children.
+
+The design and improvement of robust language-infused STEM (STEM-L)  processes and systems is essential for cultivating the vast wealth of creativity and imagination abundant in the less privileged communities and reducing this constraing. Motivating young people from these backgrounds to learn mathematics, science, engineering, and language and to aspire to reach their highest potential will generate continuous educational advancement in STEM (Science, Technology, Engineering, and Mathematics) and other fields of learning at all levels over time.
+
+
+In the DR, according to multiple national and international reports, after decades of reforms, less than 50% of youth age 14–17 has access to public schools and increased access to elementary education has been achieved by reducing the effective school day to under 3 hours/day. In 2008,  65.5% of 15–19 years olds had completed 8th grade or beyond and less than 60% of those enrolled graduated from high school.  At the same time, the DR has to be innovative players to achieve sustainable economic expansion in the renewable-energy–based global economy of the 21st century. An unachievable objective without increasing their capacity for cultivating the vast wealth of creativity and imagination abundant in less privileged communities
+
+The MACILE experience in the DR since 2007 shows that young people and teachers from disadvantaged backgrounds are eager to learn and to participate in the emergence of the country as an innovative actor in the global economy. When students are immersed in robust, inquiry-driven learning environments that challenge their imagination and creativity, even for relatively short periods, they can improve their mathematics, science, and language skills. These environments also spur an interest in mathematics, science, and engineering.
+
+# Education in the DR
+
+A review of the Dominican public education system provides a problematic outlook. Public K-12 schools place at the bottom of the quality scale nationally and internationally. A handful of elite private schools provide quality K-12 education for the privileged few that can afford the high tuition and fees. However, most private schools do not provide any better education than the public schools.
+
+Unlike in the USA, where multiple well-designed math and science standards are available and significant resources are invested to improve STEM curricula, the Dominican Republic lack clear math and science standards. There are no expectations for technology education in k-12.  The DR devotes few resources toward the development of standards or quality curricula. Far reaching educational reforms adopted since the 1980s show willingness to import ideas and curricula from the USA, Europe, and Asia; however, they have not produced the intended results. The country is still struggling to define its own vision for science and technology. Its budget for research and development is dismal as is the education budget. Indeed, the overall educational
+budget in the DR has never been higher than 2.7% of GDP in any period. Education research has been marginal.
+
+
+The reforms have also failed with respect to access to public schools. While accessibility for children age 6-13 has increased substantially over the past 15 years (91% enrolment), that for 14-17 years old has remained relatively low (36.5%). Increased access to elementary education has been achieved by reducing the school day. Schools operate 2 to 3 short shifts daily, reducing the effective school day to about 3 hours without decreasing crowdedness. These conditions and ineffective teachers have increased desertion and child labor. In 2005, 65.5% of 15-19 years olds had completed 8th grade or beyond and less than 60% of those enrolled graduated from high school. In rural areas and marginal communities like Ytabo the high school graduation rate
+remains less than 50%.
