@@ -3,49 +3,117 @@
     "title": "MACILE",
     "uri": "http://macile.org",
     "nav": {
-        "summer-academy": {
+      "summer-academy": {
+        "status": "needs revision",
+        "title": "Summer Academy",
+        "content-tpl": "summer-academy.md",
+
+        "curriculum": {
           "status": "needs revision",
-          "url": "summer-academy",
-          "content-tpl": "summer-academy.md",
+          "url": "Curriculum",
+          "content-tpl": "summer-academy-curriculum",
 
-          "curriculum": {
+          "sub-nav": [
+            "engineering",
+            "language",
+            "mathematics",
+            "robotics",
+            "science"
+          ]
+        },
+        "sessions": {
+          "2007": {
             "status": "needs revision",
-            "url": "curriculum",
-            "content-tpl": "summer-academy-curriculum",
-
-            "sub-nav": [
-              "engineering",
-              "language",
-              "mathematics",
-              "robotics",
-              "science"
-            ]
+            "url": "2007 Summer Session",
+            "content-tpl": "summer-academy-session"
           },
-
-          "sessions": {
-            "2007": {
-              "status": "needs revision",
-              "url": "2007",
-              "content-tpl": "summer-academy-session"
-            },
-            "2008": {
-              "status": "needs revision",
-              "url": "2007",
-              "content-tpl": "summer-academy-session"
-            },
-            "2009": {
-              "status": "needs revision",
-              "url": "2007",
-              "content-tpl": "summer-academy-session"
-            },
-            "2010": {
-              "status": "needs revision",
-              "url": "2007",
-              "content-tpl": "summer-academy-session"
-            }
+          "2008": {
+            "status": "needs revision",
+            "url": "2008 Summer Session",
+            "content-tpl": "summer-academy-session"
+          },
+          "2009": {
+            "status": "needs revision",
+            "url": "2009 Summer Session",
+            "content-tpl": "summer-academy-session"
+          },
+          "2010": {
+            "status": "needs revision",
+            "url": "2010 Summer Session",
+            "content-tpl": "summer-academy-session"
           }
         }
-      },
+      }
+    },
+    "about": [{
+      "presidents welcome": {
+        "status": "needs revision",
+        "url": "presidents-welcome",
+        "content-tpl": "welcome"
+        },
+      "philosophy": {
+        "status": "needs revision",
+        "url": "philosophy",
+        "content-tpl": "philosophy"
+        },
+      "people": {
+        "status": "needs revision",
+        "url": "people",
+        "content-tpl": "board"
+        },
+      "history": {
+        "status": "needs revision",
+        "url": "history",
+        "content-tpl": null
+        },
+      "reports": {
+        "status": "needs revision",
+        "url": "reports",
+        "content-tpl": "reports"
+        },
+      "where we work": {
+        "status": "needs revision",
+        "url": "where-we-work",
+        "content-tpl": null
+        },
+      "contact": {
+        "status": "needs revision",
+        "url": "contact",
+        "content-tpl": "contact"
+        },
+      "get involved": {
+        "status": "needs revision",
+        "url": "get-involved",
+        "content-tpl": "get-involved"
+      }
+    }],
+    "resources": {
+      "library": {
+        "status": "needs revision",
+        "url": "library",
+        "content-tpl": "library"
+        },
+      "student opportunities": {
+        "status": "needs revision",
+        "url": "student-oppor",
+        "content-tpl": "library"
+        },
+      "alumni": {
+        "status": "needs revision",
+        "url": "alumni",
+        "content-tpl": "summer-academy-session"
+        },
+      "applications": {
+        "status": "needs revision",
+        "url": "applications",
+        "content-tpl": "summer-academy-session"
+      }
+    },
+    "utility": [
+      "news",
+      "calendar",
+      "admin"
+    ],
     "about": [
       "presidents welcome",
       "philosophy",
@@ -55,17 +123,6 @@
       "where we work",
       "contact",
       "get involved"
-    ],
-    "resources": [
-      "library",
-      "student opportunities",
-      "alumni",
-      "applications"
-    ],
-    "utility": [
-      "news",
-      "calendar",
-      "admin"
     ],
     "site": [
       "home",
