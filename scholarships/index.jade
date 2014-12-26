@@ -1,20 +1,6 @@
 h1 Scholarship Program
 
-div.panel.panel-default
-  div.panel-body
-    | Short introduction description
-
-div.section
-  h1 2014 Scholarship Recipients
-
-  ol(class="list-group")
-  for article, slug in public.scholarships._data
-    li(class="list-group-item")
-      article(class="publication")
-        header.post-header
-          h1= article.title
-          time #{ article.date }
-
+!= partial('content/overview')
 
 div.section
   h1 Past Scholaship Recipients

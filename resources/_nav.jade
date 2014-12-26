@@ -2,7 +2,7 @@ mixin nav_item(page)
   - var url = page.split(" ").join("_")
 
   li(class="#{ current.path[0] == page ? 'active' : '' }")
-    a(href="/about/#{ url }") #{ page }
+    a(href="/resources/#{ url }") #{ page }
 
 mixin nav_list(type, modifier)
   ul(class="nav nav-list nav-#{ modifier }")

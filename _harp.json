@@ -117,12 +117,13 @@
     "about": [
       "presidents welcome",
       "philosophy",
-      "people",
       "history",
       "reports",
+      "people",
+      "partners",
       "where we work",
-      "contact",
-      "get involved"
+      "get involved",
+      "contact"
     ],
     "site": [
       "home",
@@ -137,13 +138,18 @@
       "language",
       "mathematics",
       "robotics",
-      "science"
+      "science",
+      "webscience",
+      "extracurricular-activities"
     ],
     "programs": [
       "summer academy",
       "scholarships",
       "teacher development institute",
       "prep school"
+    ],
+    "resources": [
+      "mkep"
     ]
   }
 }
