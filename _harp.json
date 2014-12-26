@@ -1,7 +1,51 @@
 {
   "globals": {
     "title": "MACILE",
-    "uri": "http://example.com",
+    "uri": "http://macile.org",
+    "nav": {
+        "summer-academy": {
+          "status": "needs revision",
+          "url": "summer-academy",
+          "content-tpl": "summer-academy.md",
+
+          "curriculum": {
+            "status": "needs revision",
+            "url": "curriculum",
+            "content-tpl": "summer-academy-curriculum",
+
+            "sub-nav": [
+              "engineering",
+              "language",
+              "mathematics",
+              "robotics",
+              "science"
+            ]
+          },
+
+          "sessions": {
+            "2007": {
+              "status": "needs revision",
+              "url": "2007",
+              "content-tpl": "summer-academy-session"
+            },
+            "2008": {
+              "status": "needs revision",
+              "url": "2007",
+              "content-tpl": "summer-academy-session"
+            },
+            "2009": {
+              "status": "needs revision",
+              "url": "2007",
+              "content-tpl": "summer-academy-session"
+            },
+            "2010": {
+              "status": "needs revision",
+              "url": "2007",
+              "content-tpl": "summer-academy-session"
+            }
+          }
+        }
+      },
     "about": [
       "presidents welcome",
       "philosophy",
@@ -30,6 +74,13 @@
       "resources",
       "support",
       "education store"
+    ],
+    "curriculum": [
+      "engineering",
+      "language",
+      "mathematics",
+      "robotics",
+      "science"
     ],
     "programs": [
       "summer academy",
