@@ -1,0 +1,19 @@
+{
+  "name": "MACILE",
+  "version": "2.0.2",
+  "description": "MACILE.org web system",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misscs/macile-ia.git"
+  },
+  "author": "Claudina Sarahe, Dr. SClaudina Vargas",
+  "license": "All Rights Reserved",
+  "bugs": {
+    "url": "https://github.com/misscs/macile-ia/issues"
+  },
+  "homepage": "https://github.com/misscs/macile-ia"
+}
