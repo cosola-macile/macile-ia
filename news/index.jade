@@ -7,7 +7,6 @@ div.section
     li(class="list-group-item")
       article(class="publication")
         header.post-header
-          h2= article.title
+          a(href="#{ slug }")
+            h2= article.title
           time #{ article.date }
-
-

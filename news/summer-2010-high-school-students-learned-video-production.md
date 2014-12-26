@@ -1,0 +1,1 @@
+Professor Dr. G. Wright from BYU and his students worked for one week with a group of students introducing them to video production. The students showed their films at the end of the summer session open house.
