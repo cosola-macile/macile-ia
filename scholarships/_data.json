@@ -1,6 +1,30 @@
 {
-  "2007": {
-    "name": "Summer Vernao",
-    "date": "2013-02-28"
-  }
+  "2008": [
+    {
+      "name": "student name here",
+      "school": "school name here",
+      "type": "type",
+      "photo": null
+    },
+    {
+      "name": "student name here",
+      "school": "school name here",
+      "type": "type",
+      "photo": null
+    },
+  ],
+  "2009": [
+    {
+      "name": "student name here",
+      "school": "school name here",
+      "type": "type",
+      "photo": null
+    },
+    {
+      "name": "student name here",
+      "school": "school name here",
+      "type": "type",
+      "photo": null
+    },
+  ]
 }
