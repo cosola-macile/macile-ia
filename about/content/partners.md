@@ -108,3 +108,15 @@ Damiana Vizcaino (Gladys) has been a collaborator of MACILE since 2008 both as t
 * Colegio Peniel, Discipulos de Cristo
 * Max Henriquez Urena
 * San Nicolas Basic School
+
+# USA Professors [Note: Need to consider whether to display this information.]
+
+STEPHEN SHUMWAY, PH.D., Profesor de Ingeniería y Tecnología de la Universidad Brigham Young (BYU). Antes de completar su doctorado enseño electrónica y tecnología en la escuela secundaria por seis años. Actualmente es el director del programa de educación para maestros en tecnología e ingeniería.
+
+RON TERRY, PH.D., Profesor de Ingeniería y Tecnología   de la Facultad de Ingeniería y Tecnología de  la Universidad Brigham Young ( BYU). Recibió su Ph.D. en química. Tiene vasta experiencia en la industria privada y en la academia. Sus trabajos de investigación recientes se enfocan en la pedagogía y aprendizaje de estudiantes en ingeniería, alfabetización tecnológica y ética en ingeniería. Ha presentado y publicado numerosos artículos sobre la educación de ingenieros.
+
+GEOFF WRIGHT, PH.D., Profesor de Ingeniería y Tecnología de la Facultad de Ingeniería y Tecnología de la Universidad Brigham Young (BYU). Realizó doctorado en Psicología y Tecnología en BYU. Tiene experiencia enseñado a niveles secundarios. Su investigación se concentra en la programación de ordenadores, multimedia y alfabetización tecnológica. Ha publicado múltiple artículos en revistas prestigiosas.
+
+NATHANIEL WHITAKER, PH.D., Profesor de Matemáticas en la Universidad de Massachusetts en Amherst. Realizó estudios de doctorado en la Universidad de California, Berkeley. Sus investigaciones son en mecánica de fluidos, matemáticas biológicas y análisis numéricos. Sus trabajos recientes se enfocan en modelos para analizar crecimientos de tumores. Tiene extensa publicaciones en revistas académicas prestigiosas
+
+ROSARIO M. de SWANSON, PH.D., Assistant Professor Malboro College,...

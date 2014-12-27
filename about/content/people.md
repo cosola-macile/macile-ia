@@ -44,3 +44,6 @@ B.A. Smith College
 Fields: Contemporary Hispanic American Literature; Contemporary Literary Theory
 
 Rosario has led the MACILE Spanish language and literature program since 2008. She designed the curriculum and wrote a magnificent book, which has inspired teachers and students to master the language and learn about their history, culture, and literature.
+
+# Founders and Collaborators
+

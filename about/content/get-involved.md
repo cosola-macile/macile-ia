@@ -91,3 +91,20 @@ This is a magnificent opportunity for a language teacher to foster her/his Spani
 
 Apply for this position.
 
+# 2008 Needs
+
+MACILE Summer 2008 has open teaching, assisting--volunteer positions available.
+
+Contact Dr.Vargas for more information or to apply.
+
+* Spanish Teacher
+* Match Teacher
+* Science Teacher
+* Classroom Assistant
+* Activities Coordinator
+
+Teaching Duties
+
+In addition to teaching or administrative responsibilities, all teaching positions involve activities that are integral part to the philosophy of MACILE: mentoring and community service.
+
+A candidate must also possess the interest and energy to thrive with a lively work pace, a genuine appreciation of young people, a sense of humor and the ability to work as part of a team. Clearly a desire to work and be part of a poor community in a less developed country is essential. Most importantly, the candidate must have a strong desire to make a difference in the lives of young people borne with very little privileges.

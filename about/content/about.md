@@ -76,3 +76,21 @@ MACILE-DR focuses on two critical groups:
 
 The principal component of the MACILE-DR model is the educational process at the core of which are the educators and the families. The model follows a limited-scale and broad-impact approach to increase access to robust STEM-L learning environments. Accessibility is simulated by an inverted pyramid. Its volume grows dynamically driven by emerging improvements in the learning processes over time, availability of critical STEM-L resources, and improvement of socioeconomic indicators.
 
+# Overview
+
+MACILE is a unique engineering educational program that promotes a learning style that widens windows of opportunities for the children of less advantaged communities. MACILE’s mission is to nurture the talents of these young people by providing them with learning environments that challenge them to have a thirst for understanding and knowing and to rise to the standards of the most prestigious institution of learning in the world. MACILE is committed to develop a talented and empowered student body.
+
+MACILE is a research project that focuses on providing resources in a bilingual format for teachers and students that speak Spanish and English.
+
+MACILE emerges in recognition of the need to make a serious effort to harness the enormous talents existent in poor communities in less developed countries. Developing this wealth of human capital is not only vital to foster scientific and technological development in these countries in the 21st century, but it also fulfills a fundamental human right. Quality education elevates hope.
+
+The program’s structure emphasizes quality to ensure and optimize the multiplicative strength of its teachings under the belief that a small knowledgeable group of people can have the greatest influence in educating their peers. MACILE has five main objectives:
+
+* Encourage and support talented children from Less Advantaged Communities (LAC) to excel in K-12 education and pursue studies and carriers in math, the science, and engineering.
+* Build a cadre of master educators that can lead the way toward continuous improvement in Science Technology English Mathematics (STEM) and language education.
+* Develop model <abbr title="Science Technology English Mathematics">STEM</abbr> curricula in a multi-language and multi-cultural platform, integrating environmental sustainability and following a system view.
+* Contribute to the development of leaders and to improve the quality  of life in the communities.
+
+The program follows COSOLA’s goal of creating a collaborative environment where issues such as lack of education and knowledge are addressed. The program also aims at educating the educators in the hope that they will not only be bettering themselves but also their students.
+
+Currently, MACILE is an intensive and competitive summer program with the goal of establishing a community based environment for children to transform into successful adults, teachers, and leaders. Plans are in place to build a year round school for a full time program while continuing the summer program to include more children in the MACILE community.

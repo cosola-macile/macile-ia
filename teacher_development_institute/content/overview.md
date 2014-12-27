@@ -25,3 +25,8 @@ TDI Comprises:
 * Seminar and Workshop Series
 * Knowledge Enhancement Program (KEP)
 
+# Summer Institute
+
+The summer institute offers one- to two-week intensive courses in mathematics, engineering and technology education,  the structure of Spanish through history and culture, and active experimental science.
+
+These standards-based courses have been developed and taught by US university professors and follow MACILE curricular philosophy and the program objectives. Dominican educators are expected to engage directly in the curriculum development process and assume the leadership of the Summer Institute in the future.

@@ -42,3 +42,9 @@ budget in the DR has never been higher than 2.7% of GDP in any period. Education
 
 The reforms have also failed with respect to access to public schools. While accessibility for children age 6-13 has increased substantially over the past 15 years (91% enrolment), that for 14-17 years old has remained relatively low (36.5%). Increased access to elementary education has been achieved by reducing the school day. Schools operate 2 to 3 short shifts daily, reducing the effective school day to about 3 hours without decreasing crowdedness. These conditions and ineffective teachers have increased desertion and child labor. In 2005, 65.5% of 15-19 years olds had completed 8th grade or beyond and less than 60% of those enrolled graduated from high school. In rural areas and marginal communities like Ytabo the high school graduation rate
 remains less than 50%.
+
+# Why MACILE Itabo
+
+First, in the Dominican Republic the educational infrastructure is basic. Educational models that require significant advances in science and continuous engineering are required for a twenty-first century workforce and the movement towards sustainable development in the global economy, .
+
+Second, the recovery and development of human potential wealth available in less developed communities is a prerequisite for achieving sustainable development in the XXI century. This condition is especially critical for the Dominican Republic to allow the country to emerge as an innovative and creative country in the twenty-first century global economy.
