@@ -8,12 +8,17 @@ div.section
   h1 Publications
 
   ol(class="list-group")
-  for article, slug in public.research._data
+  for article, slug in public.research._data.pubs
     li(class="list-group-item")
       article(class="publication")
-        header.post-header
-          h2= article.title
+        h2
+          a(href="/research/content/#{ slug }")= article.title
+        if article.authors
           p By
             for author in article.authors
-             span #{ author }
-          time #{ article.date }
+             span  #{ author }
+        time #{ article.date }
+
+//- - var post = public.research._data.pubs.foo;
+//- - post.yield = partial("foo");
+//- != partial("_publication", post)

@@ -17,13 +17,14 @@ html.no-js
       | to improve your experience.
     <![endif]-->
 
-    != partial('_nav')
+    != partial('../_nav')
 
     main
 
       != partial("content_template/_show")
 
       .content
+
 
         block content
           != yield

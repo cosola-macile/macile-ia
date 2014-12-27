@@ -1,15 +1,33 @@
 {
-  "publication-0": {
-    "title": "Effects of Poverty on Childhood Development",
-    "date": "2013-02-28",
-    "authors": ["Author 1", "Author 2"],
-    "journal": "Science"
-  },
-  "publication-1": {
-    "title": "The Complexity of International Program Designs from the West",
-    "date": "2013-02-28",
-    "authors": ["Author 1"],
-    "journal": "IEE"
-  }
+  "index": {
+    "layout": "../_layout"
+    },
+  "pubs": {
+    "efforts-include-technology": {
+      "layout": "_layout",
+      "title": "Efforts to Include Technology",
+      "date": "2013-02-28",
+      "authors": null,
+      "journal": "Science"
+    },
+    "introducing-engineering-education": {
+      "title": "Introducing Engineering Education in K-12 Classrooms in Hitabo-Nigua, Dominican Republic",
+      "date": "2014-04",
+      "authors": ["Vargas, SClaudina"],
+      "journal": "Proceeding American Society of Engineering Education, Northeast Conference Bridgeport, CT"
+    },
+    "mentoring-university-students": {
+      "title": "A Study Abroad in the Dominican Republic: Mentoring University Students as They Prepare and Teach Technology and Engineering Concepts to 6th-12th Grade Dominican Students",
+      "date": "2011-06",
+      "authors": ["Shumway, S.", "SC Vargas", "G Wright", "R Terry"],
+      "journal": "Proceeding American Society of Engineering Education, Vancouver, Canada"
+    },
+    "collaborative-effort-to-teach-technology-engineering": {
+      "title": "A Collaborative Effort to Teach Technology and Engineering Concepts to Middle School and High School Students in the Dominican Republic",
+      "date": "2010-06",
+      "authors": ["Shumway, S.", "SC Vargas", "G Wright", "R Terry"],
+      "journal": "Proceeding American Society of Engineering Education, Lewisville, KT"
+    }
 
+  }
 }
