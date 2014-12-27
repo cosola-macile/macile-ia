@@ -11,7 +11,7 @@
       "school": "school name here",
       "type": "type",
       "photo": null
-    },
+    }
   ],
   "2009": [
     {
@@ -25,6 +25,6 @@
       "school": "school name here",
       "type": "type",
       "photo": null
-    },
+    }
   ]
 }
