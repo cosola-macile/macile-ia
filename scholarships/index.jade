@@ -4,7 +4,7 @@ h1 Scholarship Program
 != partial('content/overview')
 
 div.section
-  h1 Scholaship Recipients
+  h1 Scholarship Recipients
 
   for recipient, year in public.scholarships._data.index
     h2= year
@@ -13,9 +13,11 @@ div.section
 
       for key, value in recipient
         li(class="list-group-item")
-          article(class="publication")
-            header.post-header
-              h2= key.name
-              p= key.school
-              p= key.type
+          article(class="scholarship-recipient")
+            h2= key.name
+            h3= key.type
+            p
+              span.school-name= key.school
+              ,
+              span.school-location= key.school_location
 
