@@ -1,4 +1,6 @@
 mixin nav_item(page)
+  - var url = page.split(" ").join("_")
+
   li
     a(href="/teacher_development_institute/content/#{ page }") #{ page }
 
@@ -7,6 +9,7 @@ mixin nav_list(type, modifier)
     for page in type
       +nav_item(page)
 
++nav_list(tdi, "tdi")
 
 h3. Sessions
 

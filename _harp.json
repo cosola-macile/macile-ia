@@ -118,6 +118,7 @@
       "presidents welcome",
       "philosophy",
       "history",
+      "MACILE Center",
       "reports",
       "people",
       "partners",
@@ -149,7 +150,13 @@
       "prep school"
     ],
     "resources": [
+      "library",
+      "mentor guidance",
       "mkep"
+    ],
+    "tdi": [
+      "fellowships",
+      "resources for teachers"
     ]
   }
 }
