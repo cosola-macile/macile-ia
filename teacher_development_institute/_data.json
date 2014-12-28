@@ -3,8 +3,8 @@
     "2008": [
       {
         "name": "Antonia Asencio",
-        "position": "Elementary School Teacher",
-        "grade_level": [],
+        "position": "Spanish Teacher",
+        "grade_level": ["Elementary School"],
         "school": "Centro Educativo Padre Zegrí",
         "school_location": "San Gregorio de Nigua",
         "photo": null
@@ -12,7 +12,7 @@
       {
         "name": "Damiana Vizcaino O.",
         "position": "Math Teacher",
-        "grade_level": ["grade:", "7th and 8th"],
+        "grade_level": ["7th", "8th"],
         "school": "Centro Educativo Padre Zegrí",
         "school_location": "location",
         "photo": null
@@ -21,8 +21,8 @@
     "2009":[
       {
         "name": "Antonia Asencio",
-        "position": "Elementary School Teacher",
-        "grade_level": [],
+        "position": "Spanish Teacher",
+        "grade_level": ["Elementary School"],
         "school": "Centro Educativo Padre Zegrí",
         "school_location": "San Gregorio de Nigua",
         "photo": null
@@ -30,9 +30,9 @@
       {
         "name": "Damiana Vizcaino O.",
         "position": "Math Teacher",
-        "grade_level": ["grade:", "7th and 8th"],
-        "school": "school",
-        "school_location": "location",
+        "grade_level": ["7th", "8th"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
@@ -42,13 +42,21 @@
         "school": "Centro Educativo Padre Zegrí",
         "school_location": "San Gregorio de Nigua",
         "photo": null
+      },
+      {
+        "name": "Rosario Polanco",
+        "position": "Spanish Teacher",
+        "grade_level": ["7th", "8th"],
+        "school": "Colegio Juan 3:16",
+        "school_location": "Km. 18, Bajos de Haina",
+        "photo": null
       }
     ],
     "2010": [
       {
         "name": "Antonia Asencio",
-        "position": "Elementary School Teacher",
-        "grade_level": [],
+        "position": "Spanish Teacher",
+        "grade_level": ["Elementary School"],
         "school": "Centro Educativo Padre Zegrí",
         "school_location": "San Gregorio de Nigua",
         "photo": null
@@ -71,112 +79,112 @@
       },
       {
         "name": "Rosario Polanco",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "position": "Spanish Teacher",
+        "grade_level": ["7th", "8th"],
+        "school": "Colegio Juan 3:16",
+        "school_location": "Km. 18, Bajos de Haina",
         "photo": null
       }
       ],
       "2012": [
        {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Antonia Asencio",
+        "position": "Teacher Coordinator",
+        "grade_level": ["Elementary School"],
+        "school": "Centro Educativo	Padre	Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Celestina Heredia",
+        "position": "Spanish and Social Science Teacher",
+        "grade_level": ["High School"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "María Providencia Francisco Estrella",
+        "position": "Elementary School Teacher",
+        "grade_level": ["5th", "6th"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "María del Carmen Arrendondo Ferrera",
+        "position": "Elementary School Teacher",
+        "grade_level": ["5th", "6th"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Rosario Polanco",
+        "position": "Spanish Teacher",
+        "grade_level": ["7th", "8th"],
+        "school": "Colegio Juan 3:16",
+        "school_location": "Km. 18, Bajos de Haina",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Mauris Camerina Arias",
+        "position": "Math Teacher",
+        "grade_level": ["High school"],
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Candido R. Martes Sánchez",
+        "position": "Math Teacher",
+        "grade_level": ["High School"],
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
         "photo": null
       }
       ],
       "2014": [
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Celestina Heredia",
+        "position": "Social Science Teacher",
+        "grade_level": ["High School"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "María Providencia Francisco Estrella",
+        "position": "Elementary School Teacher",
+        "grade_level": ["5th", "6th"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Adelaida Germán",
+        "position": "Elementary School Teacher",
+        "grade_level": ["5th"],
+        "school": "Centro Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Yadira Ivelisse Ciprian Polanco",
+        "position": "Elementary School Teacher",
+        "grade_level": ["2nd", "3rd"],
+        "school": "Centro Educativo Lidia Mariana Lara",
+        "school_location": "Canastica, San Cristóbal",
         "photo": null
       },
       {
-        "name": "name",
-        "position": "position",
-        "grade_level": [],
-        "school": "school",
-        "school_location": "location",
+        "name": "Luz Blaidy Pinales Arias",
+        "position": "Math Teacher Assistant",
+        "grade_level": ["Elementary School"],
+        "school": "MACILE Summer Academy",
+        "school_location": "San Gregorio de Nigua",
         "photo": null
       }
-      ]
-   }  	
+    ]
+  }  	
 }		
