@@ -16,8 +16,10 @@ div.section
           article(class="scholarship-recipient")
             h2= key.name
             h3= key.type
+            if key.type === "College"
+              h3= key.major
             p
               span.school-name= key.school
-              ,
+              br   
               span.school-location= key.school_location
 

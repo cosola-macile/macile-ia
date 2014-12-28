@@ -112,35 +112,35 @@
     "2010": [
       {
         "name": "Victoria Aldhair Cruz Silvestre",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Julio César Nero",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Juana Mercedes García",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Albania Yamile Martínez",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
-        "name": "Abel Beltrán Vázquez ",
-        "school": "Instituto Politécnico Loyola ",
+        "name": "Abel Beltrán Vázquez",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
@@ -203,51 +203,59 @@
       },
       {
         "name": "Laydi Celeste Cuevas Muñoz",
-        "school": "Instituto Politécnico de Haina ",
+        "school": "Instituto Politécnico de Haina",
         "school_location": "Km. 18, Bajos de Haina",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Moises Cuevas Muñoz",
-        "school": "Instituto Politécnico de Haina ",
+        "school": "Instituto Politécnico de Haina",
         "school_location": "Km. 18, Bajos de Haina",
         "type": "Pre-College",
         "photo": null
       }
     ],
     "2011": [
-    {
+     {
+        "name": "Jeltssin Aquino",
+        "school": "Instituto Tecnológico de Las Américas",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Sofware Engineering",
+        "photo": null
+      },
+      {   
         "name": "Victoria Aldhair Cruz Silvestre",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Julio César Nero",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Juana Mercedes García",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
         "name": "Albania Yamile Martínez",
-        "school": "Instituto Politécnico Loyola ",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
       },
       {
-        "name": "Abel Beltrán Vázquez ",
-        "school": "Instituto Politécnico Loyola ",
+        "name": "Abel Beltrán Vázquez",
+        "school": "Instituto Politécnico Loyola",
         "school_location": "San Cristóbal",
         "type": "Pre-College",
         "photo": null
@@ -296,7 +304,7 @@
      },
        {
         "name": "Leydi Celeste Cuevas Muñoz",
-        "school": "Instituto Politécnico de Haina ",
+        "school": "Instituto Politécnico de Haina",
         "school_location": "Km. 18, Bajos de Haina",
         "type": "Pre-College",
         "photo": null
@@ -310,165 +318,212 @@
      }  
     ],
     "2012": [
-      {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+      {"name":"Andreina de Jesús de Oleo",
+        "school": "Instituto Tecnológico de Santo Domingo",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Industrial Engineering",
+        "photo": null 
+      },
+      {"name":"Claudio Heredia Germán",
+        "school": "Instituto Tecnológico de Santo Domingo",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Mechatronics Engineering",
+        "photo": null 
+      },
+      {"name":"Jeltssin Aquino",
+        "school": "Instituto Tecnológico de las Américas",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Sofware Engineering",
+        "photo": null 
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Julio César Nero",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Juana Mercedes García",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Abel Beltrán Vázquez",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Anthony Hendrich Morrobel",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Patricia Michel de Jesús Oleo",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Carolyn Miosoti Vicente Muñoz",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Yairin Rodríguez",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Yulissa Esther de Jesús",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Anthony José Rufino Díaz",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Leydi Celeste Cuevas Muñoz",
+        "school": "Instituto Politécnico de Haina",
+        "school_location": "Km. 18, Bajos de Haina",
+        "type": "Pre-College",
+        "photo": null
       }
-
     ],
     "2013": [
-      {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+     {
+        "name": "Andreina de Jesús de Oleo",
+        "school": "Universidad APEC",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Software Engineering",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Claudio Heredia Germán",
+        "school": "Instituto Tecnológico de Santo Domingo",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Mechatronics Engineering",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Alabania Yamile Martínez",
+        "school": "Instituto Tecnológico de Santo Domingo",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Mechanical Engineering",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Patricia Michel de Jesús Oleo",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Victoria Aldhair Cruz Silvestre",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Leydi Celeste Cuevas Muñoz",
+        "school": "Instituto Politécnico de Haina",
+        "school_location": "Km. 18, Bajos de Haina",
+        "type": "Pre-College",
+        "photo": null
+      },
+      {
+        "name": "Wander Brito",
+        "school": "Colegio Parroquial San Agustín",
+        "school_location": "Haina",
+        "type": "Pre-College",
+        "photo": null
       }
     ],
     "2014": [
+      { "name": "Luz Blaidy Pinales Arias",
+        "school": "Instituto Tecnológico de Santo Domingo",
+        "school_location": "Santo Domingo",
+        "type": "College",
+        "major": "Chemical Engineering",
+        "photo": null
+      },
      {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Nicol Mari Pinales",
+        "school": "Instituto Politécnico Loyola",
+        "school_location": "San Cristóbal",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Wander Brito",
+        "school": "Colegio San Agustín",
+        "school_location": "Haina",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Yisel Corporán Beltre",
+        "school": "Centro Técnico Educativo Padre Zegrí",
+        "school_location": "San Gregorio de Nigua",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Patricia Michel de Jesús de Oleo",
+        "school": "Colegio San Marcos",
+        "school_location": "Haina",
+        "type": "Pre-College",
+        "photo": null
       },
       {
-        "name": "student name",
-        "school": "school name",
-        "school_location": "enter location",
-        "type": "enter",
-        "photo": "null"
+        "name": "Rocio Asencio",
+        "school": "Colegio San Marcos",
+        "school_location": "Haina",
+        "type": "Pre-College",
+        "photo": null
       }
+    ],
+    "2015": [
+    { "name": "Luz Blaidy Pinales Arias",
+      "school": "Instituto Tecnológico de Santo Domingo",
+      "school_location": "Santo Domingo",
+      "type": "College",
+      "major": "Chemical Engineering",
+      "photo": null
+    },
+    { "name": "Leydi Celeste Cuevas Muñoz",
+      "school": "Instituto Tecnológico de Santo Domingo",
+      "school_location": "Santo Domingo",
+      "type": "College",
+      "major": "Undeclared",
+      "photo": null
+
+    }
     ]
   }  
 }
