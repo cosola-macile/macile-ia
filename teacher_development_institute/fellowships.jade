@@ -1,0 +1,24 @@
+h1 Fellowships
+
+!= partial('content/fellowships')
+
+div.section
+
+  for recipient, year in public.teacher_development_institute._data.index
+    h2= year
+
+    ol(class="list-group")
+
+      for key, value in recipient
+        li(class="list-group-item")
+          article(class="scholarship-recipient")
+            h2= key.name
+            h3= key.position
+            if key.grade_level
+              each grade in key.grade_level
+                p=grade
+            p
+              span.school-name= key.school
+              br
+              span.school-location= key.school_location
+
