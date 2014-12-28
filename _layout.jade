@@ -1,51 +1,29 @@
-doctype
-html.no-js
-  head
-    meta(charset='utf-8')
-    meta(http-equiv='X-UA-Compatible', content='IE=edge')
-    title
-    meta(name='description', content='')
-    meta(name='viewport', content='width=device-width, initial-scale=1')
-    link(rel='stylesheet', href='/stylesheets/main.css')
-    link(rel='stylesheet', href='/bower_components/normalize.css/normalize.css')
-    //-script(src='js/vendor/modernizr-2.7.1.min.js')
-  body
-    <!--[if lt IE 8]>
-    p.browsehappy
-      | You are using an <strong>outdated</strong> browser.
-      | Please <a href="http://browsehappy.com/">upgrade your browser</a>
-      | to improve your experience.
-    <![endif]-->
+extends _base
 
-    != partial('_nav')
+block main
+  != partial('_nav')
 
-    main
+  main
 
-      != partial("content_template/_show")
+    != partial("content_template/_show")
 
-      .content
+    .content
 
-        block content
-          != yield
-
-      aside
-        - var path = current.path[0]
-
-        if path == 'about'
-          != partial('/about/_nav')
-        else if path == 'summer_academy'
-          != partial('/summer_academy/_nav_curriculum')
-          != partial('/summer_academy/_nav_sessions')
-        else if path == 'teacher_development_institute'
-          != partial('teacher_development_institute/_nav')
-        else if path == 'resources'
-          != partial('resources/_nav')
-        else if path == 'scholarships'
-          != partial('scholarships/_nav')
+      block content
+        != yield
 
 
-    //- != partial('_footer')
+    aside
+      - var path = current.path[0]
 
-  script(src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js')
-  script window.jQuery || document.write('<script src="js/vendor/jquery.min.js"><\/script>')
-  script(src='/js/base.js')
+      if path == 'about'
+        != partial('/about/_nav')
+      else if path == 'summer_academy'
+        != partial('/summer_academy/_nav_curriculum')
+        != partial('/summer_academy/_nav_sessions')
+      else if path == 'teacher_development_institute'
+        != partial('teacher_development_institute/_nav')
+      else if path == 'resources'
+        != partial('resources/_nav')
+      else if path == 'scholarships'
+        != partial('scholarships/_nav')

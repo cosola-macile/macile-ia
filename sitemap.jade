@@ -1,0 +1,28 @@
+extends _base
+
+block styles
+  link(rel='stylesheet', href='/stylesheets/slickmap.css')
+
+block main
+  .intro
+    h1 Site Architecture
+    p The site map gives a high level overview of our site's architecture.
+      Click on a node to access a sections content template.
+
+  .sitemap
+    ul#primaryNav.col6
+      each page, section in public._data
+        unless section === "sitemap"
+          li
+            a(href="/")= section
+            if page.items
+              ul
+                each item in page.items
+                  li
+                    a(href="/")= item.title
+
+                    if item.items
+                      ul
+                        for child in item.items
+                          li
+                            a(href="/")= child.title

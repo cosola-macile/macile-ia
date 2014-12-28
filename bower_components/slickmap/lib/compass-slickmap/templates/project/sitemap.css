@@ -1,0 +1,52 @@
+/*
+Error: File to import not found or unreadable: slickmap.
+       Load path: /Users/cs/Projects/macile/content-templates/bower_components/slickmap/lib/compass-slickmap/templates/project
+        on line 5 of sitemap.scss
+
+1: /* Override with the number of top level naigation columns you need.
+2:    - not including your home page *\/
+3: $column-default: 4 !default;
+4: 
+5: @import "slickmap";
+6: @include slickmap;
+
+Backtrace:
+sitemap.scss:5
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/import_node.rb:66:in `rescue in import'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/import_node.rb:45:in `import'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/import_node.rb:28:in `imported_file'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/import_node.rb:37:in `css_import?'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:301:in `visit_import'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/stack.rb:79:in `block in with_base'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/stack.rb:115:in `with_frame'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/stack.rb:79:in `with_base'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:8:in `visit'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:396:in `run'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:62:in `process_result'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/exec/base.rb:52:in `parse'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/exec/base.rb:19:in `parse!'
+/Users/cs/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/sass-3.4.9/bin/sass:13:in `<top (required)>'
+/Users/cs/.rbenv/versions/2.1.5/bin/sass:23:in `load'
+/Users/cs/.rbenv/versions/2.1.5/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: File to import not found or unreadable: slickmap.\A        Load path: /Users/cs/Projects/macile/content-templates/bower_components/slickmap/lib/compass-slickmap/templates/project\A         on line 5 of sitemap.scss\A \A 1: /* Override with the number of top level naigation columns you need.\A 2:    - not including your home page */\A 3: $column-default: 4 !default;\A 4: \A 5: @import \"slickmap\";\A 6: @include slickmap;"; }

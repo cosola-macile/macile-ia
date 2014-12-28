@@ -1,0 +1,163 @@
+{
+  "sitemap": {
+    "layout": false
+  },
+ "home": {
+    "url": "/",
+    "id": "home"
+ } ,
+ "about": {
+    "url": "/",
+    "items": [
+      {
+        "title": "President's Welcome",
+        "status": "needs revision",
+        "url": "presidents-welcome",
+        "content-tpl": "welcome"
+        },
+      {
+        "title": "Philosophy",
+        "status": "needs revision",
+        "url": "philosophy",
+        "content-tpl": "philosophy"
+      },
+      {
+        "title": "History",
+        "status": "needs revision",
+        "url": "history",
+        "content-tpl": null
+      },
+      {
+        "title": "MACILE Center",
+        "status": "needs revision",
+        "url": "macile_center",
+        "content-tpl": null
+      },
+      {
+        "title": "Where We Work",
+        "status": "needs revision",
+        "url": "where-we-work",
+        "content-tpl": null
+      },
+      {
+        "title": "Reports",
+        "status": "needs revision",
+        "url": "reports",
+        "content-tpl": "reports"
+      },
+      {
+        "title": "People",
+        "status": "needs revision",
+        "url": "people",
+        "content-tpl": "board"
+      },
+      {
+        "title": "Partners",
+        "status": "needs revision",
+        "url": "where-we-work",
+        "content-tpl": null
+      },
+
+      {
+        "title": "Contact",
+        "status": "needs revision",
+        "url": "contact",
+        "content-tpl": "contact"
+      },
+      {
+        "title": "Get Involved",
+        "status": "needs revision",
+        "url": "get-involved",
+        "content-tpl": "get-involved"
+      }
+    ]
+  },
+ "programs": {
+    "url": "/",
+    "items": [
+      {
+        "title": "Summer Academy",
+        "status": "needs revision",
+        "url": "summer_academy",
+        "content-tpl": "summer-academy.md",
+        "items": [
+          {
+            "curriculum": [
+              "engineering",
+              "language",
+              "mathematics",
+              "robotics",
+              "science",
+              "webscience",
+              "extracurricular-activities"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Scholarship Program",
+        "items": [
+         {
+            "title": "Pre-College"
+          },
+          {
+            "title": "Support"
+          }
+        ]
+      },
+      {
+        "title": "Teacher Development Institute",
+        "items": [
+          {
+            "title": "Fellowships"
+          },
+          {
+            "title": "Resources for Teachers"
+          },
+          {
+            "title": "Sessions"
+          }
+        ]
+      },
+      {
+        "title": "Prep School"
+      }
+    ]
+  },
+  "research": {
+    "url": "/",
+    "items": [
+      {
+        "title": "Publications"
+      }
+    ]
+  },
+  "resources": {
+    "url": "/",
+    "items": [
+      {
+        "title": "Library"
+        },
+      {
+        "title": "Mentorship/Guidance"
+      },
+      {
+        "title": "MKEP"
+      }
+    ]
+  },
+  "support": {
+    "url": "/"
+  },
+  "education store": {
+    "url": "/",
+    "items": [
+      {
+        "title": "Curriculum"
+        },
+      {
+        "title": "Gifts"
+        }
+    ]
+  }
+}
