@@ -6,6 +6,8 @@ h1 Scholarship Program
 div.section
   h1 Scholarship Recipients
 
+  p Scholarship recipients are listed chronologically by year
+
   for recipient, year in public.scholarships._data.index
     h2= year
 
@@ -20,6 +22,5 @@ div.section
               h3= key.major
             p
               span.school-name= key.school
-              br   
+              br
               span.school-location= key.school_location
-
